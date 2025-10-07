@@ -1,2 +1,2 @@
-# PROYECT---1-T.M-
+# PROYECT-1-T.M
 Mi primer Protecto en Informatica 
